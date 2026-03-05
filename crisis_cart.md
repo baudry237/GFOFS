@@ -193,6 +193,25 @@ The Crisis Cart diet is intentionally restrictive and should be used **temporari
 
 ---
 
+## Constipation / Motility Support (IBS-C)
+
+Because the Crisis Cart diet is intentionally low in fiber, some individuals may experience constipation.
+
+If constipation occurs, consider the following gentle options:
+
+Preferred options:
+- magnesium supplementation (200–400 mg, evening)
+- psyllium husk (5–10 g/day)
+- adequate hydration
+- regular movement and walking
+
+Optional natural motility aid:
+- kiwi fruit (1–2 per day if tolerated)
+
+Avoid stimulant laxatives such as senna or bisacodyl unless medically directed.
+
+---
+
 # Important Use Note
 
 The Crisis Cart is **not meant as a long-term diet**.
