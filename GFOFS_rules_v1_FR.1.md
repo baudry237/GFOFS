@@ -2,7 +2,6 @@
 ## Gut Food Optimized Filters Set — Règles
 
 Ce document définit l’ensemble de règles autoritaire du **Gut Food Optimized Filters Set (GFOFS)**.  
-Il remplace **GFOFS_rules_v1.0.md**.
 
 ---
 
