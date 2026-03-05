@@ -2,7 +2,6 @@
 ## Gut Food Optimized Filters Set — Rules
 
 This document defines the authoritative ruleset for the Gut Food Optimized Filters Set (GFOFS).  
-It supersedes **GFOFS_rules_v1.0.md**.
 
 ---
 
