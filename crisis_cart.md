@@ -193,7 +193,7 @@ The Crisis Cart diet is intentionally restrictive and should be used **temporari
 
 ---
 
-## Constipation / Motility Support (IBS-C)
+## Constipation / Motility Support
 
 Because the Crisis Cart diet is intentionally low in fiber, some individuals may experience constipation.
 
